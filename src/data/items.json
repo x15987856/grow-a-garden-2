@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "golden-dragonfly",
+      "slug": "golden-dragonfly",
+      "name": "Golden Dragonfly",
+      "category": "pet",
+      "tier": "S",
+      "description": "A high-interest pet topic in Grow a Garden 2 coverage. Exact ability numbers should be verified in-game before publishing.",
+      "tags": ["pet", "high-demand", "verify-stats"],
+      "verifiedFacts": ["Covered by gaming media in June 2026", "Useful for search intent around rare pets"],
+      "source": "Times of India coverage"
+    },
+    {
+      "id": "megaphone",
+      "slug": "megaphone",
+      "name": "Megaphone",
+      "category": "gear",
+      "tier": "A",
+      "description": "A gear item used with Roblox sound IDs. Public coverage lists the price as 8,000 Sheckles.",
+      "tags": ["gear", "sound-ids", "sheckles"],
+      "verifiedFacts": ["Price: 8,000 Sheckles", "Used with Roblox sound IDs"],
+      "source": "Times of India coverage"
+    },
+    {
+      "id": "weather-events",
+      "slug": "weather-events",
+      "name": "Weather Events",
+      "category": "system",
+      "tier": "A",
+      "description": "Weather and event windows are important for route planning. This site tracks the mechanic without inventing mutation rates.",
+      "tags": ["weather", "events", "mutations"],
+      "verifiedFacts": ["Weather event guides exist for Grow a Garden 2", "Rates require live in-game verification"],
+      "source": "Times of India coverage"
+    },
+    {
+      "id": "teamgreenbean",
+      "slug": "teamgreenbean",
+      "name": "TEAMGREENBEAN Code",
+      "category": "code",
+      "tier": "A",
+      "description": "The first public code tracked for Grow a Garden 2. Redeem quickly because Roblox codes can expire without warning.",
+      "tags": ["code", "cash", "launch"],
+      "verifiedFacts": ["Active on June 22, 2026", "Reward type: cash"],
+      "source": "PC Gamer"
+    }
+  ]
+}

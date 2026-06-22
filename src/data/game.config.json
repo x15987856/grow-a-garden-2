@@ -1,0 +1,62 @@
+{
+  "game": {
+    "name": "Grow a Garden 2",
+    "slug": "grow-a-garden-2",
+    "robloxId": "97598239454123",
+    "developer": "Strawberreh Squad",
+    "genre": "Simulation",
+    "currentVersion": "June 2026 launch window",
+    "lastUpdated": "2026-06-22",
+    "platforms": ["Roblox"]
+  },
+  "stats": {
+    "visits": "Public Roblox page",
+    "favorites": "Public Roblox page",
+    "likes": "Public Roblox page",
+    "onlineNow": "Live on Roblox",
+    "serverSize": 8,
+    "active": true
+  },
+  "seo": {
+    "siteTitle": "Grow a Garden 2 Codes, Calculator, Tier List and Wiki",
+    "siteDescription": "A fan-made Grow a Garden 2 Roblox guide with codes, a Sheckles calculator, tier notes, update tracking and beginner routes.",
+    "baseUrl": "https://growagarden2.gg",
+    "primaryKeywords": [
+      "grow a garden 2 codes",
+      "grow a garden 2 calculator",
+      "grow a garden 2 tier list",
+      "grow a garden 2 wiki"
+    ],
+    "secondaryKeywords": [
+      "grow a garden 2 roblox",
+      "grow a garden 2 weather events",
+      "grow a garden 2 golden dragonfly",
+      "grow a garden 2 megaphone"
+    ],
+    "defaultOgImage": "/og-default.svg"
+  },
+  "routes": [
+    { "path": "/", "title": "Home", "priority": "1.0" },
+    { "path": "/codes", "title": "Codes", "priority": "0.9" },
+    { "path": "/calculator", "title": "Calculator", "priority": "0.9" },
+    { "path": "/tier-list", "title": "Tier List", "priority": "0.9" },
+    { "path": "/beginner-guide", "title": "Beginner Guide", "priority": "0.8" },
+    { "path": "/updates", "title": "Updates", "priority": "0.8" },
+    { "path": "/wiki", "title": "Wiki", "priority": "0.8" },
+    { "path": "/about", "title": "About", "priority": "0.5" },
+    { "path": "/terms", "title": "Terms", "priority": "0.3" },
+    { "path": "/privacy-policy", "title": "Privacy Policy", "priority": "0.3" }
+  ],
+  "sources": [
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/roblox/grow-a-garden-2-codes/",
+      "note": "Codes and Roblox game page reference, published June 16, 2026."
+    },
+    {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/esports/news/how-to-use-roblox-sound-ids-with-the-megaphone-in-grow-a-garden-2/articleshow/131873753.cms",
+      "note": "Megaphone coverage and 8,000 Sheckles price, published June 18, 2026."
+    }
+  ]
+}
